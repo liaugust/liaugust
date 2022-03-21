@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **advanced typescript**
 
-- 👨‍💻 All of my projects are available at [https://liaugust.com](https://liaugust.com)
-
 - 📝 I regularly write articles on [https://liaugust.com/blog](https://liaugust.com/blog)
 
 - 📫 How to reach me **ivan.liaugust@gmail.com**
